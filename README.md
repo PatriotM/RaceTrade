@@ -5,6 +5,7 @@
 > A powerful Windows Forms application for automated FTP racing with IRC announce monitoring, CBFTP integration, advanced rules engine, and chat functionality with FiSH encryption.
 
 ---
+<img width="1089" height="895" alt="image" src="https://github.com/user-attachments/assets/054be493-1721-4db3-821b-5b2219f6b16c" />
 
 ## 📋 Table of Contents
 
