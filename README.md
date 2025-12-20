@@ -1153,7 +1153,7 @@ In almost all cases, the problem is:
 ## 🙏 Acknowledgments
 
 - CBFTP team for the excellent racing platform
-- Contributors and beta testers
+- Beta testers
 
 ---
 
