@@ -1,4 +1,4 @@
-# RaceTrader 🏁
+# RaceTrade 🏁
 
 **Advanced IRC Race Management & CBFTP Integration**
 
