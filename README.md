@@ -1099,27 +1099,7 @@ Mapping 3: IRC Section → MOVIES-UHD
 - ⚡ Put global DROP rules in Section Rules
 - ⚡ Keep triggers simple where possible
 - ⚡ Place specific mappings (1080p, 2160p) before catch-all mappings
-- ⚡ Enable user tracking only when chat window is visible
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-### Development Setup
-1. Clone the repository
-2. Open in Visual Studio 2019 or later
-3. Restore NuGet packages
-4. Build and run
-
-### Code Style
-- Use C# naming conventions
-- Comment complex logic
-- Follow existing patterns
-- Test thoroughly before submitting
-
----
 
 ## 📄 License
 
